@@ -1,0 +1,20 @@
+html, body {
+    background-image: url('../images/car.jpg');
+    background-repeat: no-repeat;
+    height: cover;
+	width: cover;
+}
+
+body {
+    text-align: center;
+    overflow: scroll;
+
+}
+
+/* Drop-Down Menu Styling */
+.JavaScriptDropdown{
+	position: relative;
+	margin-top: 0;
+}
+
+
